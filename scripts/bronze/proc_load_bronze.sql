@@ -15,7 +15,7 @@ Parameters:
 	This is stored procedure doesnot accept any parameters or return any values
 
 Usage Example :
-	EXEC bronz.load_bronze;
+	EXEC bronze.load_bronze;
 =====================================================================
 */
 CREATE OR ALTER PROCEDURE bronze.load_bronze AS
