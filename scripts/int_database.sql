@@ -24,11 +24,12 @@ BEGIN
 END;
 GO
 
---Create the 'DatWarehouse' database
+--Create the 'DataWarehouse' database
 CREATE DATABASE DataWarehouse;
 GO
 
 USE DataWarehouse;
+GO
 
 -- Create Schemas
 CREATE SCHEMA bronze;
